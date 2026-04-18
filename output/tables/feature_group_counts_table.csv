@@ -1,0 +1,6 @@
+feature_group,is_shift_feature,n_features
+book,False,31
+book,True,5
+stock_id,False,1
+trade,False,19
+trade,True,3

@@ -1,0 +1,13 @@
+model,feature_group,importance_mean
+hist_gradient_boosting,book,0.452514909279831
+hist_gradient_boosting,trade,0.3123830318145905
+hist_gradient_boosting,stock_id,0.00012557315090329092
+logistic_regression,book,0.631463785557797
+logistic_regression,trade,0.5420640472227016
+logistic_regression,stock_id,0.0003470325437712196
+mlp_classifier,book,0.7640174181146712
+mlp_classifier,trade,0.5654768277422946
+mlp_classifier,stock_id,0.004542643070101038
+random_forest,book,0.3419093583162307
+random_forest,trade,0.2189311625244357
+random_forest,stock_id,-0.00029655686988001585

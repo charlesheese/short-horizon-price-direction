@@ -1,0 +1,2 @@
+model,split,future_start,future_width,n_train,n_test,n_features,accuracy,precision,recall,f1,balanced_accuracy,specificity,roc_auc,average_precision,log_loss
+logistic_regression,test,300,10,224756,56116,59,0.8069712737900064,0.8041555827162269,0.8060099445125027,0.8050816958180379,0.8069609697176434,0.807911994922784,0.8709876204062411,0.8553166389335363,0.47800030005649213
